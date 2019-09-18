@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringNetMVC5", "SpringNetMVC5\SpringNetMVC5.csproj", "{CDA1EBF6-5780-4CB2-AC5C-DEA77D5A7159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Repository", "App.Repository\App.Repository.csproj", "{F2E0AECD-2EBD-46C2-8CB9-88D7C6B35153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA1EBF6-5780-4CB2-AC5C-DEA77D5A7159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA1EBF6-5780-4CB2-AC5C-DEA77D5A7159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA1EBF6-5780-4CB2-AC5C-DEA77D5A7159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA1EBF6-5780-4CB2-AC5C-DEA77D5A7159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E0AECD-2EBD-46C2-8CB9-88D7C6B35153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E0AECD-2EBD-46C2-8CB9-88D7C6B35153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E0AECD-2EBD-46C2-8CB9-88D7C6B35153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E0AECD-2EBD-46C2-8CB9-88D7C6B35153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E14B55D-D36C-4775-BAEF-276A3AD5B2E2}
+	EndGlobalSection
+EndGlobal
