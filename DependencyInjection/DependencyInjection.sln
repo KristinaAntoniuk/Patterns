@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorDependencyInjection", "ConstructorDependencyInjection\ConstructorDependencyInjection.csproj", "{5CE92907-D616-4D9E-BD7C-5AACDCBC962E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyDependencyInjection", "PropertyAndMethodDependencyInjection\PropertyDependencyInjection.csproj", "{753CFB7D-E21C-4328-B73A-883CAD8C7F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodDependencyInjection", "MethodDependencyInjection\MethodDependencyInjection.csproj", "{0B1472D1-2B26-4E69-975C-0E4B1F975CD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5CE92907-D616-4D9E-BD7C-5AACDCBC962E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE92907-D616-4D9E-BD7C-5AACDCBC962E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE92907-D616-4D9E-BD7C-5AACDCBC962E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753CFB7D-E21C-4328-B73A-883CAD8C7F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753CFB7D-E21C-4328-B73A-883CAD8C7F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753CFB7D-E21C-4328-B73A-883CAD8C7F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753CFB7D-E21C-4328-B73A-883CAD8C7F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1472D1-2B26-4E69-975C-0E4B1F975CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1472D1-2B26-4E69-975C-0E4B1F975CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1472D1-2B26-4E69-975C-0E4B1F975CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1472D1-2B26-4E69-975C-0E4B1F975CD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
