@@ -56,6 +56,10 @@
     <Compile Include="AbstractFactory\AbstractProduct\IBrand.cs" />
     <Compile Include="AbstractFactory\AbstractProduct\IProcessor.cs" />
     <Compile Include="AbstractFactory\AbstractProduct\ISystemType.cs" />
+    <Compile Include="AbstractFactory\Client\EmployeeSystemManager.cs" />
+    <Compile Include="AbstractFactory\ConcreteFactory\AppleFactory.cs" />
+    <Compile Include="AbstractFactory\ConcreteFactory\DellFactory.cs" />
+    <Compile Include="AbstractFactory\ConcreteFactory\EmployeeSystemFactory.cs" />
     <Compile Include="AbstractFactory\ConcreteProduct\Brands.cs" />
     <Compile Include="AbstractFactory\ConcreteProduct\ComputerSystemTypes.cs" />
     <Compile Include="AbstractFactory\ConcreteProduct\Processors.cs" />
